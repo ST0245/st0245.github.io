@@ -40,7 +40,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Semana | Tema | Taller | JupyterLab
 ------ | ---- | ------ | ----------
-1 |  |  |
+1 | Tipos abstractos de datos | [Taller 1](https://github.com/mauriciotoro/ST0245-Eafit/tree/master/talleres/taller01) | --
 2 |  |  |
 3 |  |  |
 4 |  |  |
