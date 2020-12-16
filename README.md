@@ -40,9 +40,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Semana | Tema | Taller | JupyterLab
 ------ | ---- | ------ | ----------
-1 | Tipos abstractos de datos | [Taller 1](https://github.com/mauriciotoro/ST0245-Eafit/tree/master/talleres/taller01) | --
-2 |  |  |
-3 |  |  |
+1 | Tipos abstractos de datos | [Taller 1](https://github.com/mauriciotoro/ST0245-Eafit/blob/master/talleres/taller01/ED1-TallerS1-Tipos-Abstractos-de-Datos%20%20Vr%20%206.0.pdf) | --
+2 | Recursión 1 | [Taller 2](https://github.com/mauriciotoro/ST0245-Eafit/blob/master/talleres/taller02/ED1-TallerS2-Recursion%20Vr%208.0.pdf) | [Recusion](https://github.com/ipiedrahiv/TA_ST0245/blob/master/Recursion.ipynb)
+3 | Recursión 2 | [Taller 3](https://github.com/mauriciotoro/ST0245-Eafit/blob/master/talleres/taller03/ED1-TallerS3_Recursi%C3%B3n%20Avanzada%20Vr%2012.0.pdf) | [Recusion](https://github.com/ipiedrahiv/TA_ST0245/blob/master/Recursion.ipynb)
 4 |  |  |
 5 |  |  |
 6 |  |  |
