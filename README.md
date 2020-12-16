@@ -13,15 +13,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Profesores:
 
 * **Mauricio Toro**
-    * - Profesor y coordinador de materia
-    * - Correo: mtorobe@eafit.edu.co
-    * - Horario de atención: Consultar en ajenda personal del profesor
+     - Profesor y coordinador de materia
+     - Correo: mtorobe@eafit.edu.co
+     - Horario de atención: Consultar en ajenda personal del profesor
 
 ### Monitores:
 
 * **Kevin Sossa**
-    * - Correo: kasossac@eafit.edu.co
-    * - Horario de atención: Por definir
+     - Correo: kasossac@eafit.edu.co
+     - Horario de atención: Por definir
     
 **Simón Marin**
     - Correo: smaring1@eafit.edu.co
