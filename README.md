@@ -12,11 +12,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Profesores:
 
-
 * **Mauricio Toro**
     - Profesor y coordinador de materia
     - Correo: mtorobe@eafit.edu.co
-    <img align="right" src="images/Mauricio.jpg" width=100>
     - Horario de atención: Consultar en ajenda personal del profesor
 
 
@@ -37,3 +35,24 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 * **Isabel Piedrahíta**
     - Correo: ipiedrahiv@eafit.edu.co
     - Horario de atención: Por definir
+    
+## Clase a Clase
+
+Semana | Tema | Taller | JupyterLab
+------ | ---- | ------ | ----------
+1 |  |  |
+2 |  |  |
+3 |  |  |
+4 |  |  |
+5 |  |  |
+6 |  |  |
+7 |  |  |
+8 |  |  |
+9 |  |  |
+10 |  |  |
+11 |  |  |
+12 |  |  |
+13 |  |  |
+14 |  |  |
+15 |  |  |
+16 |  |  |
