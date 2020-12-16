@@ -12,11 +12,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Profesores:
 
-<img align="right" src="images/Mauricio.jpg" width=100>
+
 * **Mauricio Toro**
     - Profesor y coordinador de materia
     - Correo: mtorobe@eafit.edu.co
     - Horario de atención: Consultar en ajenda personal del profesor
+<img align="right" src="images/Mauricio.jpg" width=100>
 
 ### Monitores:
 
