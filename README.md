@@ -44,7 +44,7 @@ Semana | Tema | Taller | JupyterLab
 6 | Vectores Dinámicos | [Taller 6](https://github.com/mauriciotoro/ST0245-Eafit/blob/master/talleres/taller06/ED1-TallerS6-Vectores-Dinamicos%20Vr%205.0.pdf) | --
 7 | Listas enlazadas | [Taller 7](https://github.com/mauriciotoro/ST0245-Eafit/blob/master/talleres/taller07/ED1-TallerS7-Listas-Enlazadas%20Vr%205.0.pdf) | --
 8 | PARCIAL 1 | -- | --
-9 | Pilas y colas | [Taller 8](https://github.com/mauriciotoro/ST0245-Eafit/blob/master/talleres/taller08/ED1-TallerS8-Pilas-y-Colas%20Vr%204.0.pdf) | --
+9 | Pilas y colas | [Taller 8](https://github.com/mauriciotoro/ST0245-Eafit/blob/master/talleres/taller08/ED1-TallerS8-Pilas-y-Colas%20Vr%204.0.pdf) | [Stacks](https://github.com/ipiedrahiv/TA_ST0245/blob/master/Stacks.ipynb) [Queues](https://github.com/ipiedrahiv/TA_ST0245/blob/master/Queues.ipynb)
 10 | Tablas de hash | [Taller 9](https://github.com/mauriciotoro/ST0245-Eafit/blob/master/talleres/taller09/ED1-TallerS9-Tablas-de-Hash%20Vr%206.0.pdf) | --
 11 | Arboles binarios | [Taller 10](https://github.com/mauriciotoro/ST0245-Eafit/blob/master/talleres/taller10/ED1-TallerS10-arboles-busqueda%20Vr%205.0.pdf) | --
 12 | Implementación de grafos | [Taller 11](https://github.com/mauriciotoro/ST0245-Eafit/blob/master/talleres/taller11/ED1-TallerS11-Implementacion-Grafos%20Vr%205.0.pdf) | --
